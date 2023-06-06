@@ -9,8 +9,13 @@ display: grid;
 grid-template-columns: 1fr 1fr;
 }
 
-div, img{
+div{
 grid-column: 1/2;
+width: 50vw;
+}
+
+img{
+width: 50vw;
 }
 
 div {
