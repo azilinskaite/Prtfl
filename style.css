@@ -10,7 +10,7 @@ grid-template-columns: 1fr 1fr;
 }
 
 div, img{
-max-width: 50vw;
+grid-column: 1/2;
 }
 
 div {
